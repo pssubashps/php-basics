@@ -1,0 +1,6 @@
+Data Types
+===================
+What is data type in php
+How to assign data type
+Type Casting
+Determining the data type
