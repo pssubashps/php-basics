@@ -1,0 +1,33 @@
+
+Given 2 strings, return their concatenation, except omit the first char of each. The strings will be at least length 1.
+Eg  Hello There ellohere
+
+---------------------------------------------------------------------------
+
+
+Given an "out" string length 4, such as "<<>>", and a word, return a new string where the word is in the middle of the out string
+
+Eg : "<<>>", "Yay" → "<<Yay>>"
+
+----------------------------------------------------------------------------------------------------
+
+
+Given a string of even length, return the first half. So the string "WooHoo" yields "Woo".
+
+WooHoo" → "Woo"
+
+----------------------------------------------------------------------------------------------------------------
+
+Given a string of odd length, return the string length 3 from its middle, so "Candy" yields "and". The string length will be at least 3.
+
+"Candy"→ "and"
+"and" → "and"
+"solving" → "lvi"
+
+------------------------------------------------------------------------------------------------------
+
+Given a string, return a new string made of 3 copies of the first 2 chars of the original string. The string may be any length. If there are fewer than 2 chars, use whatever is there.
+
+"Hello"→ "HeHeHe"
+"ab" → "ababab"
+"H" → "HHH"
